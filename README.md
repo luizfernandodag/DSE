@@ -92,6 +92,4 @@ mvn test
 
 ------------------------------------------------------------------------
 
-## 📄 Licença
 
-Projeto de uso livre para fins acadêmicos, didáticos e portfólio.
